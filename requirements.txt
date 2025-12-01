@@ -10,3 +10,5 @@ gradio
 simple-lama-inpainting
 bitsandbytes
 scipy
+paddlepaddle-gpu
+paddleocr
