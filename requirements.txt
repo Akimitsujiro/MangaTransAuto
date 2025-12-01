@@ -8,3 +8,5 @@ accelerate
 opencv-python-headless
 gradio
 simple-lama-inpainting
+bitsandbytes
+scipy
