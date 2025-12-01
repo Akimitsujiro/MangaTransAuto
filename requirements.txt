@@ -1,0 +1,10 @@
+torch
+torchvision
+manga-ocr
+ultralytics
+google-generativeai
+transformers
+accelerate
+opencv-python-headless
+gradio
+simple-lama-inpainting
