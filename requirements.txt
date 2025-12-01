@@ -12,3 +12,6 @@ bitsandbytes
 scipy
 paddlepaddle-gpu
 paddleocr
+comic-text-detector
+Pillow
+numpy
